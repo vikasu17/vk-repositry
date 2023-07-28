@@ -1,0 +1,7 @@
+ jira login
+ https://id.atlassian.com/signup?application=start&continue=https%3A%2F%2Fstart.atlassian.com%2F&prompt=login
+
+
+ https://www.atlassian.com/try/cloud/signup?bundle=jira-software&edition=free
+
+ https://id.atlassian.com/login?application=start&continue=https%3A%2F%2Fstart.atlassian.com%2F&prompt=login
