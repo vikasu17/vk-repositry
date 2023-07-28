@@ -1,1 +1,1 @@
-# vk-repositry
+# vk-reposit

@@ -1,0 +1,16 @@
+.first-div{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+}
+
+.sec-div{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(95, 223, 144);
+    position: absolute;
+    top: 150px;
+    left: 143px;;
+}

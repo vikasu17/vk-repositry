@@ -1,0 +1,62 @@
+ <link rel="stylesheet" href="extern2.css">
+
+<h2> heading tag 2</h2>
+
+<p> poonam</p>
+
+<h2> kj kjkk </h2>
+
+
+<h2 class="container">n sdd</h2>
+
+<h2 class="container">mmm </h2>
+
+
+ h2{
+    color : pink;
+}
+
+p{
+    color:blueviolet
+}
+
+/*externel css: 1.element selector
+                2. class selector : 
+                syntax .(period operator)classname { pro:val} 
+                */
+
+.container {
+    color: brown;
+
+
+
+
+ <!-- css types:
+1.Inline css syntax:  style = "color:red; font-size:40px"
+2.Internel css
+3.externel css -->
+<!-- css properties : style = propertyName : value -->
+<p style = "color:rgb(69, 245, 53)" > PRAGRAPH </p>
+
+<p style="color:rgb(237, 13, 50) ; font-size: 50px; font-family:Arial Narrow; ">paragraph dncdjkcjkncd</p>
+
+<div style="background-color: burlywood; height:140px; width:200px">
+    lxlkxksnxlnsx sxbjsbkjxbs
+</div>
+
+<h1 style="color: rgb(238, 15, 238); background-color: yellowgreen; width: 400px; ">sx xjx jxkjxjxj xjxjx</h1>
+
+<button style="background-color: chartreuse; font-size: 20px; border-radius: 10px; padding:25px 43px">Submit</button>
+}
+
+
+ .name{
+    color: #ea9bb6;
+    font-family: Arial;
+    cursor: progress;
+}
+
+
+ <div class="name">
+    Poonam Patil
+</div>

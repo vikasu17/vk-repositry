@@ -1,0 +1,16 @@
+ <img src="D:/JUNE_BATCH/HTML/nature.jpg" height="1000" width="1000">
+
+
+ <h1>My image</h1>
+<img src="D:/JUNE_BATCH/HTML/nature.jpg"  width="100" height="100">
+
+<marquee behavior="scroll" direction="left" scrollamount="25"> POONAM </marquee>
+<marquee behavior="slide" direction="right" scrollamount="15"> POONAM </marquee>
+<marquee behavior="alternate" direction="up" scrollamount="20" width="200" height="200"> POONAM </marquee>
+
+<marquee behavior="alternate" direction="right" scrollamount="15">
+    <img src="D:/JUNE_BATCH/HTML/nature.jpg">
+</marquee>
+<marquee behavior="alternate" direction="right"   scrollamount="5">
+    <img src="D:/JUNE_BATCH/HTML/nature.jpg">
+</marquee>
